@@ -5,11 +5,11 @@ media_folder: public/images
 public_folder: /images
 publish_mode: editorial_workflow
 
-backend:
-  name: github
-  repo: precycle-today/nextjs-netlify-blog-template
-  base_url: https://nextjs-netlify-blog-template-ten.vercel.app/
-  auth_endpoint: api/auth
+# backend:
+#   name: github
+#   repo: precycle-today/nextjs-netlify-blog-template
+#   base_url: https://nextjs-netlify-blog-template-ten.vercel.app/
+#   auth_endpoint: api/auth
 
 collections:
   - name: "config"
